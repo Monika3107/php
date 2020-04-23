@@ -1,20 +1,20 @@
 # php
 Link to the main page :
 
-PS : replace ## with your php server address i.e. server location wherever you keep the files
+# PS : replace ## with your php server address i.e. server location wherever you keep the files
 
-https://#####/php 
+# https://#####/php 
 
-Instructions for performing oprations:
+# Instructions for performing oprations:
 
 (1) Insert the data into textfields and click on insert to insert data in to the database.
 (2) Select the data from the table by clicking on the row and update it into relevent textfield and then click on the update to update the data in to the database
 (3) Select the data from the table by clicking on the row and click on the delete button to delete the data from the database.
 (4) Reset the textfields by clicking on the reset button.
 
-Link to the APIS:
+# Link to the APIS:
 
-(1) Create : https://#######php/insert.php
+(1) Create : https://#######/php/insert.php
 
 Example:
 
