@@ -1,7 +1,9 @@
 # php
 Link to the main page :
 
-https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/
+PS : replace ## with your php server address i.e. server location wherever you keep the files
+
+https://#####/php 
 
 Instructions for performing oprations:
 
@@ -12,26 +14,26 @@ Instructions for performing oprations:
 
 Link to the APIS:
 
-(1) Create : https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/insert.php
+(1) Create : https://#######php/insert.php
 
 Example:
 
-https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/insert.php?sid=5&fname=monika&sname=solanki&email=solanki@gmail.com
+https://#######/php/insert.php?sid=5&fname=monika&sname=solanki&email=solanki@gmail.com
 
-(2) Read : https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/read.php
-
-Example:
-
-https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/read.php
-
-(3) Update : https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/update.php
+(2) Read : https://#######/php/read.php
 
 Example:
 
-https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/update.php?sid=1&fame=Monika&sname=Solanki&email=Solanki111@gmail.com
+https://#######/php/read.php
 
-(4) Delete : https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/delete.php
+(3) Update : https://#######php/update.php
 
 Example:
 
-https://personal-sites.deakin.edu.au/~mvsolanki/sit780/218614619_ass1/Assignment1/delete.php?sid=1
+https://#######/php/update.php?sid=1&fame=Monika&sname=Solanki&email=Solanki111@gmail.com
+
+(4) Delete : https://#######/php/delete.php
+
+Example:
+
+https://#######/php/delete.php?sid=1
