@@ -2,7 +2,7 @@
 
 PS : replace ## with your php server address i.e. server location wherever you keep the files
   
-Link to the main login page :
+# Link to the main login page :
 
 https://#####/php+Angular
 
@@ -20,6 +20,6 @@ Instructions for performing oprations:
 	(4) view environmental data
 	(5) Log out
 
-Link to the Angular aplication 
+# Link to the Angular aplication 
 
 https://#########/my-app/
