@@ -1,9 +1,9 @@
 # php
 Link to the main page :
 
-# PS : replace ## with your php server address i.e. server location wherever you keep the files
+PS : replace ## with your php server address i.e. server location wherever you keep the files
 
-# https://#####/php 
+https://#####/php 
 
 # Instructions for performing oprations:
 
